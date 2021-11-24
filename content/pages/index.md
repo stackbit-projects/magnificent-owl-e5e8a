@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ok
 has_more_link: true
 more_link_text: lorem-ipsum
 seo:
